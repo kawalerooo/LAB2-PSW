@@ -5,7 +5,7 @@ namespace ConsoleApp3
 {
 	public static class Task3
 	{
-		public static void Run()
+		public static void Main()
 		{
 			Console.WriteLine("Wpisz liczbe binarna.");
 			string choosen = Console.ReadLine();
