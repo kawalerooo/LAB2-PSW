@@ -1,6 +1,6 @@
 using System;
 
-public static class Globals
+public static class Task1
 {
 	internal static void Main()
 	{
